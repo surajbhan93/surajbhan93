@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```html
 <h1 align="center">Hi 👋, I'm Suraj Bhan</h1>
 
-### CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Builder | Public Speaker
+<h3 align="center">
+CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Builder | Public Speaker
+</h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```md
 - 🚀 Co-Founder of **Tutvex** & **Codelura**
 - 💼 Team Head & CTO at **Lokharido (Noida)**
 - 💻 Ex-Software Engineer at **Fifth Avenue Technologies (FAT)**
@@ -37,14 +39,18 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 👨‍🏫 Mentored **2000+ Students**
 - 🌐 Growing a community of **25K+ Professionals on LinkedIn**
 - 📫 Reach me at: **surya93362@gmail.com**
-```
 
+<br clear="both"/>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/surajbhan93/)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/surajbhan93/" target="_blank">
+    LinkedIn
+  </a>
 </p>
+```
+
 
 
 # getREADME
