@@ -38,12 +38,29 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br clear="both"/>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/surajbhan93/" target="_blank">
-    LinkedIn
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://discord.gg/YOUR_INVITE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 </p>
 
 
