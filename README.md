@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```html
+
 <h1 align="center">Hi 👋, I'm Suraj Bhan</h1>
 
 <h3 align="center">
@@ -49,7 +49,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     LinkedIn
   </a>
 </p>
-```
+
 
 
 
