@@ -22,16 +22,22 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on **Tutvex**
-- 🌱 Learning **System Design & DevOps**
-- 👨‍💻 Portfolio: https://yourportfolio.com
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Email: yourmail@gmail.com
+- 🚀 Co-Founder of **Tutvex** & **Codelura**
+- 💼 Currently serving as **Chief Technology Officer (CTO) at Lokharido, Noida**
+- 🎤 **Josh Talks Speaker** & Public Speaker
+- 🏗️ Building scalable SaaS, EdTech & E-Commerce products
+- 🌱 Exploring **System Design, Cloud Architecture & DevOps**
+- 👨‍💻 Ask me about **MERN Stack, Backend Development, Startups & Product Building**
+- 🎓 B.Tech Graduate from **MNNIT Allahabad**
+- 🏆 AIR 823 – GATE CSE | Hack36 Top 7 Team
+- 👨‍🏫 Mentored **2000+ Students**
+- 🌐 Growing a community of **25K+ Professionals on LinkedIn**
+- 📫 Reach me at: **surya93362@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
+<a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/surajbhan93/)">LinkedIn</a>
 </p>
 
 
