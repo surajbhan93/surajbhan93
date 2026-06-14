@@ -26,19 +26,15 @@ CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Bu
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🚀 Co-Founder of **Tutvex** & **Codelura**
-- 💼 Team Head & CTO at **Lokharido (Noida)**
+- 💼 CTO & Team Lead at **Lokharido**
 - 💻 Ex-Software Engineer at **Fifth Avenue Technologies (FAT)**
-- ⚙️ Backend Engineer specializing in **Node.js, Express.js, Django, PostgreSQL & MongoDB**
-- ☁️ Experienced with **AWS, Docker, REST APIs, CI/CD & Scalable System Architecture**
-- 🎤 **Josh Talks Speaker** | Public Speaker | Educator
-- 🏗️ Building scalable **SaaS, EdTech, AI & E-Commerce** products
-- 🌱 Exploring **System Design, Cloud Architecture & DevOps**
-- 👨‍💻 Ask me about **Backend Development, MERN Stack, Databases, Startups & Product Building**
-- 🎓 B.Tech Graduate from **MNNIT Allahabad**
+- ⚙️ Backend Engineer | Node.js • Express.js • Django • PostgreSQL • MongoDB
+- ☁️ AWS • Docker • REST APIs • System Design
+- 🎤 Josh Talks Speaker | Public Speaker
 - 🏆 AIR 823 – GATE CSE | Hack36 Top 7 Team
-- 👨‍🏫 Mentored **2000+ Students**
-- 🌐 Growing a community of **25K+ Professionals on LinkedIn**
-- 📫 Reach me at: **surya93362@gmail.com**
+- 👨‍🏫 Mentored 2000+ Students
+- 🌐 25K+ LinkedIn Community
+- 📫 surya93362@gmail.com
 
 <br clear="both"/>
 
