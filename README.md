@@ -49,11 +49,22 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
-# getREADME
 
-#hedading 1
+## 👨‍💻 About Me
 
-# heading 2To adjust the badges, hold Shift+click to change size, Command+click to rotate.
+I'm **Suraj Bhan**, a Backend Engineer, Entrepreneur, and Technology Enthusiast passionate about building products that solve real-world problems.
+
+Currently serving as **CTO & Team Head at Lokharido**, I lead technology initiatives, product development, and engineering teams to build scalable digital solutions. I am also the **Co-Founder of Tutvex and Codelura**, where I work on empowering students and professionals through technology, mentorship, and innovation.
+
+My expertise lies in **Backend Development, System Design, REST APIs, Database Architecture, and Scalable Web Applications**. I primarily work with **Node.js, Express.js, Django, PostgreSQL, MongoDB, AWS, Docker, and modern cloud technologies** to build reliable and high-performance systems.
+
+Previously, I worked as a **Software Engineer at Fifth Avenue Technologies (FAT)** and completed my internship at **SynapsWeb**, where I developed scalable APIs, optimized databases, and contributed to cloud-based deployments.
+
+Beyond engineering, I am a **Josh Talks Speaker, Public Speaker, and Mentor**, having guided **2000+ students** in technology and career development. I have also built a thriving community of **25K+ professionals and learners** across LinkedIn and other platforms.
+
+My mission is to leverage technology, education, and entrepreneurship to build impactful products that create opportunities, solve meaningful problems, and contribute to India's growing startup ecosystem.
+
+
 
 
 [![@dynamos3144's Holopin board](https://holopin.me/dynamos3144)](https://holopin.io/@dynamos3144)
