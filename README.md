@@ -45,19 +45,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
-  <a href="[https://instagram.com/YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/suraj_11022002/)" target="_blank">
+  <a href="https://instagram.com/suraj_11022002" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   
-  <a href="[https://t.me/YOUR_TELEGRAM_USERNAME](https://t.me/mentorsetu)" target="_blank">
+  <a href="https://t.me/mentorsetu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   
-  <a href="[https://youtube.com/@YOUR_CHANNEL](https://www.youtube.com/@Codelura)" target="_blank">
+  <a href="https://youtube.com/@Codelura" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
-  <a href="https://discord.gg/YOUR_INVITE_LINK" target="_blank">
+  <a href="https://discord.gg/esdApnecu" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
