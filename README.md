@@ -17,22 +17,28 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Suraj Bhan</h1>
 
-<h3 align="center">Software Engineer | MERN Developer | Freelancer</h3>
+### CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Builder | Public Speaker
 
 <img align="right" alt="Coding" width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+```md
 - 🚀 Co-Founder of **Tutvex** & **Codelura**
-- 💼 Currently serving as **Chief Technology Officer (CTO) at Lokharido, Noida**
-- 🎤 **Josh Talks Speaker** & Public Speaker
-- 🏗️ Building scalable SaaS, EdTech & E-Commerce products
+- 💼 Team Head & CTO at **Lokharido (Noida)**
+- 💻 Ex-Software Engineer at **Fifth Avenue Technologies (FAT)**
+- ⚙️ Backend Engineer specializing in **Node.js, Express.js, Django, PostgreSQL & MongoDB**
+- ☁️ Experienced with **AWS, Docker, REST APIs, CI/CD & Scalable System Architecture**
+- 🎤 **Josh Talks Speaker** | Public Speaker | Educator
+- 🏗️ Building scalable **SaaS, EdTech, AI & E-Commerce** products
 - 🌱 Exploring **System Design, Cloud Architecture & DevOps**
-- 👨‍💻 Ask me about **MERN Stack, Backend Development, Startups & Product Building**
+- 👨‍💻 Ask me about **Backend Development, MERN Stack, Databases, Startups & Product Building**
 - 🎓 B.Tech Graduate from **MNNIT Allahabad**
 - 🏆 AIR 823 – GATE CSE | Hack36 Top 7 Team
 - 👨‍🏫 Mentored **2000+ Students**
 - 🌐 Growing a community of **25K+ Professionals on LinkedIn**
 - 📫 Reach me at: **surya93362@gmail.com**
+```
+
 
 <h3 align="left">Connect with me:</h3>
 
