@@ -27,7 +27,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🚀 Co-Founder of **Tutvex** & **Codelura**
 - 💼 CTO & Team Lead at **Lokharido**
-- 💻 Ex-Software Engineer at **Fifth Avenue Technologies (FAT)**
+- 💻 Ex-Software Engineer at **Fifth Avenue Technologies (FAT) | USA Based MNC**
 - ⚙️ Backend Engineer | Node.js • Express.js • Django • PostgreSQL • MongoDB
 - ☁️ AWS • Docker • REST APIs • System Design
 - 🎤 Josh Talks Speaker | Public Speaker
