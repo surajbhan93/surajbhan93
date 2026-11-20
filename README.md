@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Suraj Bhan</h1>
+<h1 align="center">Hi 👋, I'm Krish Shriwastav</h1>
 
 <h3 align="center">
 CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Builder | Public Speaker
@@ -40,7 +40,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/surajbhan93/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -55,7 +55,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   <a href="https://youtube.com/@Codelura" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
   
   <a href="https://discord.gg/esdApnecu" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -69,7 +69,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
-I'm **Suraj Bhan**, a Backend Engineer, Entrepreneur, and Technology Enthusiast passionate about building products that solve real-world problems.
+I'm *Krish Shriwastav**, a Backend Engineer, Entrepreneur, and Technology Enthusiast passionate about building products that solve real-world problems.
 
 Currently serving as **CTO & Team Head at Lokharido**, I lead technology initiatives, product development, and engineering teams to build scalable digital solutions. I am also the **Co-Founder of Tutvex and Codelura**, where I work on empowering students and professionals through technology, mentorship, and innovation.
 
