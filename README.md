@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Krish Shriwastav</h1>
+<h1 align="center">Hi 👋, I'm Suraj bhan </h1>
 
 <h3 align="center">
 CTO @ Lokharido | Co-Founder @ Tutvex & Codelura | Backend Engineer | Product Builder | Public Speaker
